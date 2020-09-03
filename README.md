@@ -1,4 +1,4 @@
-# Flutter Web View
+# Flutter Web View https://img.shields.io/date/03/09/2020?style=social
 
 Webview in Flutter using dependencie easy_web_view 1.3.0
 
